@@ -1,0 +1,15 @@
+/Users/mac/Desktop/proj/c#/bin/Debug/net6.0/c#
+/Users/mac/Desktop/proj/c#/bin/Debug/net6.0/c#.deps.json
+/Users/mac/Desktop/proj/c#/bin/Debug/net6.0/c#.runtimeconfig.json
+/Users/mac/Desktop/proj/c#/bin/Debug/net6.0/c#.dll
+/Users/mac/Desktop/proj/c#/bin/Debug/net6.0/ref/c#.dll
+/Users/mac/Desktop/proj/c#/bin/Debug/net6.0/c#.pdb
+/Users/mac/Desktop/proj/c#/obj/Debug/net6.0/c#.csproj.AssemblyReference.cache
+/Users/mac/Desktop/proj/c#/obj/Debug/net6.0/c#.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Desktop/proj/c#/obj/Debug/net6.0/c#.AssemblyInfoInputs.cache
+/Users/mac/Desktop/proj/c#/obj/Debug/net6.0/c#.AssemblyInfo.cs
+/Users/mac/Desktop/proj/c#/obj/Debug/net6.0/c#.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/proj/c#/obj/Debug/net6.0/c#.dll
+/Users/mac/Desktop/proj/c#/obj/Debug/net6.0/ref/c#.dll
+/Users/mac/Desktop/proj/c#/obj/Debug/net6.0/c#.pdb
+/Users/mac/Desktop/proj/c#/obj/Debug/net6.0/c#.genruntimeconfig.cache
