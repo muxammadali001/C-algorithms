@@ -7,18 +7,28 @@ namespace Algorithms
    {
        static Boolean IsUppercase(string s)
        {
-              if (s.All(char.IsUpper))
-              {
-                  return true;
-              }
-              else
-              {
-                  return false;
-              }
+              return s.All(char.IsUpper);
+       }
+       static Boolean IsLowercase(string s)
+       {
+              return s.All(char.IsLower);
+       }
+       static Boolean isPassword(string s)
+       {
+              return s.Any(char.IsUpper) && s.Any(char.IsLower) && s.Any(char.IsDigit);
        }
        static void Main(string[] args)
        {
-           Console.WriteLine("Hello World!");
+           Console.WriteLine(IsUppercase("hello!"));
+           Console.WriteLine(IsUppercase("Hello "));
+           Console.WriteLine(IsLowercase("Hello World!"));
+           Console.WriteLine(IsLowercase("hello!"));
+           Console.WriteLine(isPasswordComplex("HelloWorld1"));
        }
-   }
+
+        private static bool isPasswordComplex(string v)
+        {
+            throw new NotImplementedException();
+        }
+    }
 }
